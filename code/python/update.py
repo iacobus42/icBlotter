@@ -8,9 +8,6 @@ import datetime
 database = "/path/to/data/base.db"
 apiKey = "&key=your-google-api-key"
 
-baseUrl = "http://www.iowa-city.org/icgov/apps/police/activityLog.asp?date="
-
-
 # this program should not require any changes
 
 baseUrl = "http://www.iowa-city.org/icgov/apps/police/activityLog.asp?date="
